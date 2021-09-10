@@ -11,5 +11,5 @@
 
 #### SuperUser credentials: login: admin pwd: admin  
 
-API endpoint for export/import data (JSON): **/api/links**  
+API endpoint for export data to JSON: **/api/links**  
 The filter by country and source can contain multiple values separated by commas. (country and source params)
